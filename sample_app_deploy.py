@@ -12,7 +12,7 @@ def index():
   main, if it's assigned main, run the application'''
 
 if __name__=="__main__":
-	app.run(debug=True)
+	app.run(debug=True, port=33507)
 
 '''If another script imports this app then it's not going to equal main
 It will be the name of the script that is importing this
