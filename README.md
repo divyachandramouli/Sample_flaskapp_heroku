@@ -1,1 +1,1 @@
-The goal is to learn to deploy a sample Flask app with a PostgreSQL database on Heroku
+The goal is to learn to deploy a sample Flask app on Heroku
