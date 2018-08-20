@@ -1,0 +1,1 @@
+web: python sample_app_deploy.py runserver 0.0.0.0:5000
